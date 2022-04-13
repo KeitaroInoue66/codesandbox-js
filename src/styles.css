@@ -1,3 +1,18 @@
 body {
   font-family: sans-serif;
 }
+
+.input-box {
+  background-color: #dddddd;
+  width: 400px;
+}
+
+.i_complete {
+  background-color: sandybrown;
+  width: 400px;
+}
+
+.complete {
+  background-color: seagreen;
+  width: 400px;
+}
